@@ -1,8 +1,8 @@
-# Olá, eu sou Enzo 👋
+# Olá, eu sou o Enzo 👋
 
 💻 Back-End Developer
 
-Atualmente estudando:
+Atualmente focado em:
 
 - Java
 - Spring Boot
@@ -15,17 +15,18 @@ Atualmente estudando:
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.appzo-bf&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/apif&show_icons=true&theme=tokyonight
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameut=compact&theme=tokyonight
 
-![GitHub Streak](https://streak-stats.demolab.theme=tokyonight
+![GitHub Streak](https://streak-stats.demolab&theme=tokyonight
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
 ### Mini Mercado Livre
+
 Projeto focado em:
 
 - FastAPI
@@ -35,19 +36,20 @@ Projeto focado em:
 - Service Layer
 
 ### Biblioteca API
+
 API REST desenvolvida com Java.
 
 ---
 
 ## 🛠 Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badgeenjdk&logoColor=white
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33r-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=fordge&logo=amazonaws&logoColor=white
+![Java](https://img.shields.io/badge/Javastyle=for-the-badge&logo=openjdk&logoColor=white
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logogoColor=white
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-thelogo=amazonaws&logoColor=white
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Francisco-blue?style=for-the-badge&logo=linkedin)](httpsn.com/in/enzo-de-barros-francisco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Francisco-blue?style=for-the-badge&logo=linkedin)](https://www.n/enzo-de-barros-francisco)

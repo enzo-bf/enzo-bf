@@ -13,16 +13,6 @@ Atualmente focado em:
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-bf&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.angs/?username=enzo-bf&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=enzo-bf&theme=tokyonight)
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### Mini Mercado Livre

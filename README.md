@@ -17,9 +17,9 @@ Atualmente focado em:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-bf&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-le=enzo-bf&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.angs/?username=enzo-bf&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats=enzo-bf&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=enzo-bf&theme=tokyonight)
 
 ---
 

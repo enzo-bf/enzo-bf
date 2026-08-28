@@ -15,11 +15,11 @@ Atualmente focado em:
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apif&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-bf&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameut=compact&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-le=enzo-bf&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab&theme=tokyonight
+![GitHub Streak](https://streak-stats=enzo-bf&theme=tokyonight)
 
 ---
 
@@ -43,10 +43,17 @@ API REST desenvolvida com Java.
 
 ## 🛠 Tecnologias
 
-![Java](https://img.shields.io/badge/Javastyle=for-the-badge&logo=openjdk&logoColor=white
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logogoColor=white
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-thelogo=amazonaws&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00or-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-spring&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?styleadge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPIle=for-the-badge&logo=fastapi&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&azonaws&logoColor=white)
+
+
 
 ---
 
